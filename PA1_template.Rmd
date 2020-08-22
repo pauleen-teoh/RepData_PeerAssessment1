@@ -1,5 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+author: Pauleen Teoh Gei San
 output: 
   html_document:
     keep_md: true
